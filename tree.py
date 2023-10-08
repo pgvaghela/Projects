@@ -1,6 +1,6 @@
 '''
 File: tree.py
-Author: Pri Vaghela (CSC 120, 4:00 pm)
+Author: Pri Vaghela 
 Description: The program is to create the TreeNode class that gets imported in 
 phylo.py.
 '''
