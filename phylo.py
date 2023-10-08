@@ -1,6 +1,6 @@
 '''
 File: phylo.py
-Author: Pri Vaghela (CSC 120, 4:00 pm)
+Author: Pri Vaghela
 Description: The program constructs phylogenetic trees starting from the genome
 sequences of a set of organisms. It performs phylogenetic analysis on genetic 
 data stored in a FASTA file. The tree constructed based on the similarity of 
